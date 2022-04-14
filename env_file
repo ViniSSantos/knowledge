@@ -1,0 +1,11 @@
+//usamos este arqv. como modelo para reconstruir o .ev, já que o mesmo não sobe ao repositório.
+module.exports = {
+    authSecret: '',
+    db: {
+        host: '127.0.0.1',
+        port: 5432, //pardão do postgres
+        database: '',
+        user: '',
+        password: '' 
+    }
+}
